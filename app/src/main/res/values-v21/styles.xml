@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="LaSultanaTheme" parent="AppTheme">
+        <item name="android:statusBarColor">@android:color/holo_green_dark</item>
+        <item name="colorPrimary">@android:color/holo_green_light</item>
+        <item name="colorAccent">@android:color/holo_orange_light</item>
+    </style>
+</resources>
